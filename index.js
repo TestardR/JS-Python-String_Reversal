@@ -4,4 +4,4 @@ function reverseString(str) {
               .join('')
 }
 
-console.log(reverseString('hello'))
+/* console.log(reverseString('hello')) */
